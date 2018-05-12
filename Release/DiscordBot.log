@@ -1,0 +1,4 @@
+﻿  Bot.cpp
+d:\programming\libs\curlpp-0.8.1\include\utilspp\smartptr.hpp(113): error C2760: syntax error: unexpected token 'identifier', expected 'type specifier'
+  d:\programming\libs\curlpp-0.8.1\include\utilspp\smartptr.hpp(183): note: see reference to class template instantiation 'utilspp::SharedPtr<ContentType,CountingBodyPolicy>' being compiled
+  DiscordBot.cpp
